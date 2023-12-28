@@ -1,0 +1,1 @@
+This is my first project using SQL. I analysed UK road accident data collected up to December 2022, trying to grasp different trends and patterns from the data as a means to extrapolate findings from it.
